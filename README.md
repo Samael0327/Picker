@@ -1,6 +1,6 @@
 # IPicker
 ### A simple IP locator tool
-#### Author - [Mr-Krishna-90](https://github.com/Mr-Krishna-90/)
+#### Author - [Samael](https://github.com/Samael0327/Picker)
 
 !
 
@@ -9,7 +9,7 @@
 - $ `apt update && apt upgrade`
 - $ `pkg install python3`
 - $ `pkg install git`
-- $ `git clone https://www.github.com/Mr-Krishna-90/I_Picker.git`
+- $ `git clone https://github.com/Samael0327/Picker`
 - $ `cd I_Picker`
 - $ `python3 Ip-Picker.py`
 
